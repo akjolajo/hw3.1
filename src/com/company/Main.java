@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         //ctrl + K = commit
+        //ctrl + Shift  + K = push
 	// write your code here
         System.out.println("salam");
     BankAccount forakjolaccount = new BankAccount();
